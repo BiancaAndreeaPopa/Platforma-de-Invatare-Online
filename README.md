@@ -9,3 +9,4 @@ Paginile sunt:
 -Teachers
 -Contact Us
 + contine pagina "index" care este Sign in, Sign up page
++ contine o arhiva "Imagini" cu iconite si imagini folosite in cod
